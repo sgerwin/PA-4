@@ -6,7 +6,7 @@ __Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in th
 - [Description/Given Problems](#beginner-descriptiongiven-problems)
 - [Getting Started](#green_circle-getting-started)
    - [Dependencies](#electric_plug-dependencies)
-- a
+   - [Executing Program]
 - a
 - a
 - a
@@ -21,8 +21,7 @@ __Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in th
 - 
 
 ## :beginner: Description/Given Problems
-__ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization technique with storytelling, analyze the data and present different<br>
-(i) data frames; and (ii) visuals using the dataset given.
+__ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.
 
 1. Create the following data frames based on the format provided:
    - Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as __Visayas__
@@ -46,5 +45,19 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 * _**[board2.xlsx](board2.xlsx)**_
 * _Optional: Microsoft Excel_
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
+
+### :wrench: Executing Prorgram
+* How to run the program
+* Make sure to have downloaded the _**[board2.xlsx](board2.xlsx)**_
+* In order to run each cell, please remember to press **_Shift + Enter_**
+```
+import pandas as pd
+```
+* It is **_crucial_** to include "import pandas as pd" as the entire Python script relies on this specific code.
+```
+# Read cars data from CSV file into dataframe
+cars=pd.read_csv("cars.csv")
+```
+* The code block above is also important as this loads the .csv file. Without it, the entire script won't run.
      
 
