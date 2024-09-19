@@ -31,13 +31,15 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 ## :green_circle: Getting Started
 
 ### :electric_plug: Dependencies
+
 * Anaconda Navigator
 * Jupyter Notebook
 * _**[board2.xlsx](board2.xlsx)**_
 * _Optional: Microsoft Excel_
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
-### :wrench: Executing Prorgram
+### :wrench: Executing Program
+
 * How to run the program
 * Make sure to have downloaded _**[board2.xlsx](board2.xlsx)**_
 * In order to run each cell, please remember to press **_Shift + Enter_**
