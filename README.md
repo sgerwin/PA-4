@@ -7,8 +7,9 @@ __Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in th
 - [Getting Started](#green_circle-getting-started)
    - [Dependencies](#electric_plug-dependencies)
    - [Executing Program](#wrench-executing-prorgram)
-- [Author]
-- a
+- [Author](#writing_hand-author)
+  - [Acknowledgements](#star2-acknowledgements)
+
 
 ## :beginner: Description/Given Problems
 __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.
@@ -54,7 +55,7 @@ df=pd.read_excel("board2.xlsx")
 Sherwin Miguel C. Mapaye
 
 ### :star2: Acknowledgements
-Engr. Ma. Madecheen S. Pangaliman, MSc
+Engr. Ma. Madecheen S. Pangaliman, MSc<br>
 Engr. Nico John Leo S. Lobos
 
      
