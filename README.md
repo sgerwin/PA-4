@@ -33,5 +33,6 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
      <br>
      <br>
      - a) Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon
+     <br>
      - b) Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
 
