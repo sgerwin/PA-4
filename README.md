@@ -63,7 +63,7 @@ plt.bar(df['Hometown'], df['Average'])
 ```
 * When running the code block above the following bar plot should appear.
 <br>
-![Alt text](bar.png)
+![Alt text1](bar.png)
 
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
