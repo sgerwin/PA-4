@@ -52,11 +52,11 @@ df=pd.read_excel("board2.xlsx")
 * The code block above is also important as this loads the .xlsx file. Without it, the entire script won't run.
 
 ## :writing_hand: Author
-Sherwin Miguel C. Mapaye
+* Sherwin Miguel C. Mapaye
 
 ### :star2: Acknowledgements
-[Engr. Ma. Madecheen S. Pangaliman, MSc](https://www.ust.edu.ph/profile/pangaliman-ma-madecheen-s)<br>
-Engr. Nico John Leo S. Lobos
+1. [Engr. Ma. Madecheen S. Pangaliman, MSc](https://www.ust.edu.ph/profile/pangaliman-ma-madecheen-s)<br>
+2. Engr. Nico John Leo S. Lobos
 
      
 
