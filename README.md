@@ -5,7 +5,7 @@
 
 - [Description/Given Problems](#beginner-descriptiongiven-problems)
 - [Getting Started](#green_circle-getting-started)
-   - [Dependencies](
+   - [Dependencies](#electric_plug-dependencies)
 - a
 - a
 - a
@@ -40,5 +40,10 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 ## :green_circle: Getting Started
 
 ### :electric_plug: Dependencies
+* Anaconda Navigator
+* Jupyter Notebook
+* _**[board2.xlsx](board2.xlsx)**_
+* _Optional: Microsoft Excel_
+* Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
      
 
