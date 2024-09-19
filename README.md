@@ -61,7 +61,7 @@ plt.bar(df['Gender'] , df['Average'])
 plt.bar(df['Track'], df['Average'])
 plt.bar(df['Hometown'], df['Average'])
 ```
-* When running the code block above the following bar plot should appear.
+* When running the code block above, the following bar plot should appear.
 ![Alt text](bar.png)
 
 ## :writing_hand: Author
