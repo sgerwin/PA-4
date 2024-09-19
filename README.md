@@ -4,7 +4,7 @@
 ## :ledger: Index
 
 - [Description/Given Problems](#beginner-descriptiongiven-problems)
-- [Getting Started](#green-circle_getting-started)
+- [Getting Started](#green_circle-getting-started)
 - a
 - a
 - a
