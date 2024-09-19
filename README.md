@@ -1,5 +1,5 @@
 # PA4-MAPAYE
-- Download the ECE Board Exam 2 dataset and write a Python script/code in the Jupyter Notebook to do the given problems.
+- __Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in the Jupyter Notebook to do the given problems.
 
 ## :ledger: Index
 
