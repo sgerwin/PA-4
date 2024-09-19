@@ -55,7 +55,7 @@ df=pd.read_excel("board2.xlsx")
 Sherwin Miguel C. Mapaye
 
 ### :star2: Acknowledgements
-Engr. Ma. Madecheen S. Pangaliman, MSc<br>
+[Engr. Ma. Madecheen S. Pangaliman, MSc](https://www.ust.edu.ph/profile/pangaliman-ma-madecheen-s)<br>
 Engr. Nico John Leo S. Lobos
 
      
