@@ -7,18 +7,8 @@ __Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in th
 - [Getting Started](#green_circle-getting-started)
    - [Dependencies](#electric_plug-dependencies)
    - [Executing Program](#wrench-executing-prorgram)
+- [Author]
 - a
-- a
-- a
-- aa
-- a
-- a
-- a
-- a
-- a
-- a
-- a
-- 
 
 ## :beginner: Description/Given Problems
 __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.
@@ -48,7 +38,7 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 
 ### :wrench: Executing Prorgram
 * How to run the program
-* Make sure to have downloaded the _**[board2.xlsx](board2.xlsx)**_
+* Make sure to have downloaded _**[board2.xlsx](board2.xlsx)**_
 * In order to run each cell, please remember to press **_Shift + Enter_**
 ```
 import pandas as pd
@@ -59,5 +49,13 @@ import pandas as pd
 df=pd.read_excel("board2.xlsx")
 ```
 * The code block above is also important as this loads the .xlsx file. Without it, the entire script won't run.
+
+## :writing_hand: Author
+Sherwin Miguel C. Mapaye
+
+### :star2: Acknowledgements
+Engr. Ma. Madecheen S. Pangaliman, MSc
+Engr. Nico John Leo S. Lobos
+
      
 
