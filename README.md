@@ -26,5 +26,5 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 1. Create the following data frames based on the format provided:
    - Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas
      <br>
-     Output: ![Alt text](downloads/example.png)
+     Output: ![Alt text](example.png)
 
