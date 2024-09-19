@@ -46,7 +46,7 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 ```
 import pandas as pd
 ```
-* It is **_crucial_** to include "import pandas as pd" as the entire Python script relies on this specific code.
+* It is **_crucial_** to include __"import pandas as pd"__ as the entire Python script relies on this specific code.
 ```
 # Read the Excel file "board2.xlsx" and load it into a DataFrame
 df=pd.read_excel("board2.xlsx")
