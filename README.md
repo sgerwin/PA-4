@@ -3,7 +3,7 @@
 
 ## :ledger: Index
 
-- [Description/Given Problems](#description)
+- [Description/Given Problems](#beginner-descriptiongiven-problems)
 - a
 - a
 - a
