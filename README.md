@@ -6,7 +6,7 @@ __Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in th
 - [Description/Given Problems](#beginner-descriptiongiven-problems)
 - [Getting Started](#green_circle-getting-started)
    - [Dependencies](#electric_plug-dependencies)
-   - [Executing Program]
+   - [Executing Program](#wrench-executing-prorgram)
 - a
 - a
 - a
