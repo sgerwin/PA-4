@@ -55,9 +55,9 @@ import pandas as pd
 ```
 * It is **_crucial_** to include "import pandas as pd" as the entire Python script relies on this specific code.
 ```
-# Read cars data from CSV file into dataframe
-cars=pd.read_csv("cars.csv")
+# Read the Excel file "board2.xlsx" and load it into a DataFrame
+df=pd.read_excel("board2.xlsx")
 ```
-* The code block above is also important as this loads the .csv file. Without it, the entire script won't run.
+* The code block above is also important as this loads the .xlsx file. Without it, the entire script won't run.
      
 
