@@ -24,9 +24,11 @@
 __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.
 
 1. Create the following data frames based on the format provided:
-   - Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas
+   - Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as __Visayas__
      <br>
      Output:
      <br>
      ![Alt text](example.png)
+     <br>
+     - a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon
 
