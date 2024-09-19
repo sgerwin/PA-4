@@ -5,7 +5,7 @@
 
 - [Description/Given Problems](#beginner-descriptiongiven-problems)
 - [Getting Started](#green_circle-getting-started)
-- a
+   - [Dependencies]
 - a
 - a
 - a
@@ -38,5 +38,7 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
 
 ## :green_circle: Getting Started
+
+### Dependencies
      
 
