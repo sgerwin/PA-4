@@ -5,7 +5,7 @@
 
 - [Description/Given Problems](#beginner-descriptiongiven-problems)
 - [Getting Started](#green_circle-getting-started)
-   - [Dependencies]
+   - [Dependencies](
 - a
 - a
 - a
@@ -39,6 +39,6 @@ __ECE BOARD EXAM PROBLEM:__ Using data wrangling and data visualization techniqu
 
 ## :green_circle: Getting Started
 
-### Dependencies
+### :electric_plug: Dependencies
      
 
