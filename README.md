@@ -52,6 +52,18 @@ import pandas as pd
 df=pd.read_excel("board2.xlsx")
 ```
 * The code block above is also important as this loads the .xlsx file. Without it, the entire script won't run.
+```
+# Set the figure size for the plot
+plt.figure(figsize=(15, 6))
+
+# Creates a bar plot for the Averages of the Gender, Track, and Hometown
+plt.bar(df['Gender'] , df['Average'])
+plt.bar(df['Track'], df['Average'])
+plt.bar(df['Hometown'], df['Average'])
+```
+* When running the code block above the following bar plot should appear.
+<br>
+![Alt text](bar.png)
 
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
