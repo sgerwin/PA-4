@@ -1,5 +1,11 @@
 # PA 4 - Data Wrangling and Data Visualization<br>
-__Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in the Jupyter Notebook to do the given problems.
+
+## :bulb: Intended Learning Outcomes
+- To identify the codes and functions needed in cleaning and visualizing data<br>
+- To be able to apply and use the different codes and functions in creating a Python program that will be used in data wrangling and data visualization
+
+### :hammer: Instructions
+- __Download__ the _ECE Board Exam 2 dataset_ and write a Python script/code in the Jupyter Notebook to do the given problems.
 
 ## :ledger: Index
 
